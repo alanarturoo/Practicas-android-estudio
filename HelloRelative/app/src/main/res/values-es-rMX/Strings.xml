@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola Tostada</string>
+    <string name="button_label_count">Contador</string>
+    <string name="button_label_toast">Tostada</string>
+    <string name="count_initial_value">0</string>
+</resources>
